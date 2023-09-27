@@ -1,0 +1,12 @@
+variables
+
+x6 in [-1.e8,1.e8];
+x8 in [-1.e8,1.e8];
+x10 in [-1.e8,1.e8];
+x11 in [0,10];
+
+minimize 
+
+x10*x11^4 - x8*x11^2 + x6;
+
+end
