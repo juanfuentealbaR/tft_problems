@@ -1,9 +1,9 @@
 variables
 
-x1 in [-1.e8,1.e8];
-x2 in [-1.e8,1.e8];
-x3 in [-1.e8,1.e8];
-x10 in [-1.e8,1.e8];
+x1 in [-1,1];
+x2 in [-1,1];
+x3 in [-1,1];
+x10 in [-1,1];
 
 
 minimize 

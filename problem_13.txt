@@ -1,8 +1,8 @@
 variables
 
-x6 in [-1.e8,1.e8];
-x8 in [-1.e8,1.e8];
-x10 in [-1.e8,1.e8];
+x6 in [-1,1];
+x8 in [-1,1];
+x10 in [-1,1];
 x11 in [0,10];
 
 minimize 
