@@ -13,4 +13,4 @@ Problem_hard_1: https://github.com/ibex-team/ibex-lib/blob/master/benchs/optim/e
 
 Problem 20: https://github.com/ibex-team/ibex-lib/blob/master/benchs/optim/easy/ex8_1_4.bch
 
-Problem 21 and 21: https://github.com/ibex-team/ibex-lib/blob/master/benchs/optim/hard/ex8_5_1bis.bch
+Problem 21 and 22: https://github.com/ibex-team/ibex-lib/blob/master/benchs/optim/hard/ex8_5_1bis.bch
