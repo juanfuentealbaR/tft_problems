@@ -1,7 +1,7 @@
 variables
 
-x1 in [-5,1];
-x2 in [-1,5];
+x1 in [-5,100000000];
+x2 in [-100000000,5];
 
 minimize
 
