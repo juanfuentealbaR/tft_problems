@@ -1,0 +1,10 @@
+variables
+
+x1 in [0,2];
+x2 in [0,3];
+
+minimize 
+
+x2^2 - 7*x2 - 12*x1;
+
+end
