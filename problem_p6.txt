@@ -1,0 +1,10 @@
+variables
+
+x1 in [-100,100];
+x2 in [-100,100];
+
+minimize
+
+1 - x1^2 + (x2 - x1^2)^2;
+
+end
