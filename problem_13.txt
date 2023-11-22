@@ -1,0 +1,14 @@
+El problema 13: 
+
+variables
+
+x1 in [-100,100];
+x2 in [-100,100];
+x3 in [-100,100];
+x4 in [0,10];
+
+minimize 
+
+x3*x4^2 - x2*x4^2 + x1;
+
+end
